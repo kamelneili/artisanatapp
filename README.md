@@ -1,2 +1,4 @@
 # artisanatapp
-Flutter Artisanat app
+Flutter Artisanat app using Bloc
+
+
