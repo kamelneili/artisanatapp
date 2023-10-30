@@ -1,11 +1,10 @@
 # artisanatapp
 Flutter Artisanat app using Bloc
 
-
-![1](https://github.com/kamelneili/artisanatapp/assets/14231362/15ade50b-1a51-405f-835d-55d3d8c599db)
-![2](https://github.com/kamelneili/artisanatapp/assets/14231362/10986cf4-af38-42fc-8386-59f525c4f8a2)
-![3](https://github.com/kamelneili/artisanatapp/assets/14231362/07347877-ddc0-4102-b38a-2688c14b76db)
-![4](https://github.com/kamelneili/artisanatapp/assets/14231362/d2518bbf-651a-4243-b122-1ac6fdf25f8e)
-![5](https://github.com/kamelneili/artisanatapp/assets/14231362/3268fc2e-c150-4bd4-8996-bf099cf1e3cb)
-![6](https://github.com/kamelneili/artisanatapp/assets/14231362/bafd8241-6ee6-44d1-93d3-02501e808ff1)
-![7](https://github.com/kamelneili/artisanatapp/assets/14231362/bc0fefd1-825c-4402-a4ed-fcd8f296125e)
+![11](https://github.com/kamelneili/artisanatapp/assets/14231362/c78ef123-2858-41d0-9b31-b26833f418f9)
+![2](https://github.com/kamelneili/artisanatapp/assets/14231362/ce5302c4-9302-4820-939d-f2fb1036b2d9)
+![3](https://github.com/kamelneili/artisanatapp/assets/14231362/47428f72-11bb-457c-a499-f4a08571cbe8)
+![44](https://github.com/kamelneili/artisanatapp/assets/14231362/821def45-1664-4da3-a780-2a9cbd5629cb)
+![5](https://github.com/kamelneili/artisanatapp/assets/14231362/28cfb59a-2b24-442f-8135-1dffbc6571d7)
+![6](https://github.com/kamelneili/artisanatapp/assets/14231362/5a289fba-f37d-40fc-971d-cc06c7a45472)
+![7](https://github.com/kamelneili/artisanatapp/assets/14231362/7eab27b8-3ba2-4c26-9225-8a3b7c529667)
